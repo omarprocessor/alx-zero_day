@@ -1,8 +1,4 @@
 
-Changes from the update_script branch
-
-
-
 #!/bin/bash 
 
 echo "ALX School is so cool!"
