@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-Changes from the main branch
-=======
+
 Changes from the update_script branch
->>>>>>> master
+
 
 
 #!/bin/bash 
 
 echo "ALX School is so cool!"
-=======
 echo "ALX School"
 
