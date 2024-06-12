@@ -1,6 +1,11 @@
 #!/bin/bash 
-<<<<<<< HEAD
+
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
->>>>>>> master
+<<<<<<< HEAD
+Changes from the main branch
+=======
+Changes from the update_script branch
+>>>>>>> update_script
+
